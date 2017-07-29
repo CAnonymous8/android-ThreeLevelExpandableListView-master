@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\android_test\\ExpandableRecyclerview-master (1)\\android-ThreeLevelExpandableListView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\groupviewlayout.xml",
+        "source": "E:\\android_test\\ExpandableRecyclerview-master (1)\\android-ThreeLevelExpandableListView-master\\app\\src\\main\\res\\layout\\groupviewlayout.xml"
+    },
+    {
+        "merged": "E:\\android_test\\ExpandableRecyclerview-master (1)\\android-ThreeLevelExpandableListView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\car_model_grid.xml",
+        "source": "E:\\android_test\\ExpandableRecyclerview-master (1)\\android-ThreeLevelExpandableListView-master\\app\\src\\main\\res\\layout\\car_model_grid.xml"
+    },
+    {
+        "merged": "E:\\android_test\\ExpandableRecyclerview-master (1)\\android-ThreeLevelExpandableListView-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\android_test\\ExpandableRecyclerview-master (1)\\android-ThreeLevelExpandableListView-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
